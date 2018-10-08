@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TagParse</string>
+    <string name="text"><Data><![CDATA[<extendfont color="#ffffff" size="25" typeface="Aleo.otf">Hello</extendfont> <extendfont size="50" typeface="blessed.ttf" color="#444444"> World!</extendfont>]]></Data></string>
+</resources>
